@@ -1,4 +1,4 @@
-% Take the gradient of function numerically at a given point
+% Take the gradient of the function numerically at a given point
 function y = gradient(x) 
    
     h = 0.0000001;

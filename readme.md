@@ -1,5 +1,5 @@
 # Gradient Steepest Descent Method for Local Minimizers
-This project demonstrates how the [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) algorithm can be found a local minimizer of a function at any dimension(1, 5, 10, 100, 200, 300).
+This project demonstrates how the [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) algorithm can be found a local minimizer of a function at any dimension (1, 5, 10, 100, 200, 300).
 # Code Implementation
 Codes are implemented in Matlab R2018b.
 # Description
